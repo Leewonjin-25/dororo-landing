@@ -1,4 +1,3 @@
-# dororo-landing
  도로로 (Dororo) - 도로 균열 보수 동아리
 
 <div align="center">
@@ -407,6 +406,33 @@
 
 </div>
 
+---
+
+## � 기술 스택
+
+- **HTML5** - 시맨틱 마크업
+- **CSS3** - 모던 스타일링
+- **JavaScript** - 인터랙티브 기능
+- **Fonts** - Noto Sans KR, Outfit
+
+## � 프로젝트 파일
+
+- `index.html` - 메인 랜딩 페이지
+- `style.css` - 베이지 테마 스타일
+- `script.js` - 인터랙션 로직
+- `quiz.js` - 퀴즈 시스템
+
+## 🚀 GitHub Pages로 보기
+
+완전한 인터랙티브 버전을 보려면 GitHub Pages를 사용하세요:
+
+```bash
+# 저장소 업로드 후
+# Settings → Pages → Source: main branch
+# https://YOUR-USERNAME.github.io/dororo-landing/
+```
+
+---
 
 <div align="center">
 
